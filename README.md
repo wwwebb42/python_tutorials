@@ -13,6 +13,7 @@ The following was the learning path that I used when I was starting out:
 ## Text editors / IDEs
 * [Microsoft Visual Studio Code](https://code.visualstudio.com/)
 * [PyCharm](https://www.jetbrains.com/pycharm/)
+* [Atom](https://atom.io/)
 * [Jupyter notebooks](https://jupyter.org/)
     * [Keyboard shortcuts](http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html)
 
@@ -21,6 +22,12 @@ The following was the learning path that I used when I was starting out:
 * [numpy](http://www.numpy.org/)
 * [pandas](https://pandas.pydata.org/)
 * [matplotlib](https://matplotlib.org/)
+
+For data visualisation, you should also look at:
+* [Seaborn](https://seaborn.pydata.org/)
+* [Plotly](https://plot.ly/python/)
+* [Chartify](https://github.com/spotify/chartify) (by Spotify)
+* [Dash](https://plot.ly/products/dash/) (Dashboarding web framework, by plotly)
 
 ## Other
 
