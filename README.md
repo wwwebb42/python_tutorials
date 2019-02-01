@@ -34,3 +34,4 @@ For data visualisation, you should also look at:
 * [Markdown](https://en.wikipedia.org/wiki/Markdown)
     * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Style guide: [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+* Nice set of [pandas tutorial videos](https://www.dataschool.io/easier-data-analysis-with-pandas/)
